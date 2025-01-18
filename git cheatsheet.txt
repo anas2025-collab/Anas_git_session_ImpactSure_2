@@ -1,0 +1,24 @@
+git clone -  To download or to create an working copy of the code in your local system which is similar to what is present on the GitHub repository.
+ 
+git pull - To download only the latest changes made in the code. It is completely different from git clone command.
+ 
+git add - To add the files in which the changes are made and the one which needs to be pushed to the the repository.
+ 
+git commit - To add the local files in the working directory of git.
+ 
+git push - To upload the changes which are made in the file / files to the repository.
+ 
+Git status - To check the current files which are changed.
+ 
+git branch - To get the current working branch
+ 
+Git checkout - To switch to another branch
+ 
+ 
+Assignment:
+Everyone to create Github account
+Everyone to install git in his / her laptop.
+Everyone to create one repository and create one branch named "session" in the created repository
+Everyone to create and push file named "session learnings" in the session branch only
+ 
+ 
